@@ -1,0 +1,44 @@
+[DebugChecksum]
+Checksum=960652714
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "D:\project\zigbee-协调器\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A1=_ "D:\work-temp\zigbee2-自习室人数统计\zigbee2-自习室监控\协调器\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A2=_ "E:\finel-race\zigbee-fajiao\coordinator\ZStack-CC2530-2.3.0-1.4.0\Components\osal\common\OSAL_Timers.c" ""
+A3=_ "E:\finel-race\zigbee-fajiao\coordinator\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A4=_ "E:\student\design\2018_12\2034\zigbee\coodinate-key-p20\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A5=_ "E:\work\5组网实验\28.串口控制LCD显示\ZStack-CC2530-2.3.0-1.4.0\Components\osal\common\OSAL_Timers.c" ""
+A6=_ "E:\work\5组网实验\28.串口控制LCD显示\ZStack-CC2530-2.3.0-1.4.0\Components\stack\zdo\ZDObject.c" ""
+A7=_ "E:\work\5组网实验\28.串口控制LCD显示\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A8=_ "H:\design\park_rfid\zigbee源码\zigbee-协调器\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A9=_ "X:\design\template\zigbee-协调器\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+Count=10
+SuppressDialog=1
